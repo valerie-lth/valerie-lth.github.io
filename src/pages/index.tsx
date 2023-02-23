@@ -36,14 +36,14 @@ const About = () => {
 const Container = styled(Markdown).attrs({
   as: "main",
 })`
-  width: var(--post-width) * 2;
+  width: var(--post-width);
   margin: 0 auto;
   margin-top: 80px;
   margin-bottom: 6rem;
 
   @media (max-width: ${({ theme }) => theme.device.sm}) {
-    margin-top: var(--sizing-lg);
-    width: 92.5%;
+    margin-top: var(--sizing-xl);
+    width: 87.5%;
   }
 
   h1 {

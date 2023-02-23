@@ -67,7 +67,7 @@ module.exports = {
   author: "Valerie Liu", // Maybe your name
   siteUrl: "https://valerieliu-th", // Your website URL
   lang: "en", // Language
-  utterances: "sungik-choi/gatsby-starter-apple-comment", // Github repository to store comments
+  utterances: "valerie-lth/personal-website-comments", // Github repository to store comments
   links: {
     github: "https://github.com/sungik-choi/gatsby-starter-apple", // Your github repository
   },
