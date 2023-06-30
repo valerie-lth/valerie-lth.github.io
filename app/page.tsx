@@ -4,6 +4,7 @@ import  { FaGithub, FaLinkedin, FaBookOpen, FaLocationArrow,
   from "react-icons/fa"
 
 export default function Home() {
+<meta http-equiv='pragma' content='no-cache'></meta>
   return (
     <main className="px-6 mx-auto">
       <div className="flex my-10 flex-row sm:justify-center align-middle gap-4 text-black text-3xl lg:text-4xl">

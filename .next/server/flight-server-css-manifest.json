@@ -1,0 +1,13 @@
+{
+  "cssImports": {
+    "/Users/valerie/Documents/personal-website/app/layout.tsx": [
+      "/Users/valerie/Documents/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/valerie/Documents/personal-website/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/valerie/Documents/personal-website/app/page": [
+      "/Users/valerie/Documents/personal-website/app/globals.css"
+    ]
+  }
+}
